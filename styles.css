@@ -1,0 +1,24 @@
+.title {color: red;
+        margin: center;}
+
+.background {background-color: black;}
+
+.caleb {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.box  {width:300px; margin:auto;}
+
+.box_2 {color: whitesmoke}
+
+.box_3 {width:300px; margin:auto;}
+
+h2{
+    color:whitesmoke;
+}
+
+h3 {
+    color: red;
+}
