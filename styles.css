@@ -1,9 +1,15 @@
 
-  body {background-color: #000000; display:block;}
+  body {background-color: #000000; position:static;}
+
+  .container{
+    position:relative;
+    min-width: 1900px;
+  }
   .banner {
     display: block;
+    max-width: 2000px;
     margin-left: 385px;
-    margin-right: 0px;
+    margin-right: 385px;
     margin-top: -10px;
     width: 50%;
   }
