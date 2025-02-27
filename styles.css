@@ -18,7 +18,7 @@
   }
 
   .name  {
-    position:absolute;
+    position:relative;
     list-style-type: none;
     margin-left: 400px;
     margin-right:375px;
@@ -31,7 +31,7 @@
   }
   
   .company {
-    position:absolute;
+    position:relative;
     list-style-type: none;
     margin-left: 400px;
     margin-right:375px;
@@ -43,7 +43,7 @@
   }
   
   .home {
-    position:absolute;
+    position:relative;
     list-style-type: none;
     margin-left: 715px;
     margin-right:375px;
@@ -53,7 +53,7 @@
     border-radius: 25px;
   }
   .about {
-    position:absolute;
+    position:relative;
     list-style-type: none;
     margin-left: 815px;
     margin-right:375px;
@@ -63,7 +63,7 @@
     border-radius: 25px;
   }
   .projects {
-    position:absolute;
+    position:relative;
     list-style-type: none;
     margin-left: 915px;
     margin-right:375px;
@@ -73,7 +73,7 @@
     border-radius: 25px;
   }
   .contact {
-    position:absolute;
+    position:relative;
     list-style-type: none;
     margin-left: 1025px;
     margin-right:375px;
@@ -99,7 +99,7 @@
   }
   
   .title {
-    position:absolute;
+    position:relative;
     list-style-type: none;
     margin-left: 400px;
     margin-right:375px;
@@ -186,7 +186,7 @@
     border-radius: 25px
   }
   .Game {
-    position: absolute;
+    position: relative;
     margin-left:770px;
     margin-right: 50px;
     margin-bottom: 0px;
@@ -250,7 +250,7 @@
     border-radius: 25px
   }
   .Art {
-    position: absolute;
+    position: relative;
     margin-left:420px;
     margin-right: 50px;
     margin-bottom: -18px;
