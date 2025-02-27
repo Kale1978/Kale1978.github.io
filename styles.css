@@ -1,37 +1,302 @@
-header{height: 20px; width: 300px; color: red; margin: auto; }
 
-body {color:white;
-    background-color: black;
-    font-style: italic;}
+  body {background-color: #000000;}
 
-.caleb {display: block; margin:auto;}
+  .banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+    width: 50%;
+  }
+  ul {
+    font-style: oblique;
+  }
 
-.box  {
-    height: 300px;
-    width: 500px;
-    padding: 20px;
-    margin: auto;
-    border: 10px solid red;
-    background-color: blue; 
-    }
+  .name  {
+    position:absolute;
+    list-style-type: none;
+    margin-left: 400px;
+    margin-right:375px;
+    margin-top: 20px;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 25px;
+    color: rgb(255, 0, 0);
+    font-size:30px;
+  }
+  
+  .company {
+    position:absolute;
+    list-style-type: none;
+    margin-left: 400px;
+    margin-right:375px;
+    margin-top:25px;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 25px;
+    color: white;
+  }
+  
+  .home {
+    position:absolute;
+    list-style-type: none;
+    margin-left: 715px;
+    margin-right:375px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e62d2d;
+    border-radius: 25px;
+  }
+  .about {
+    position:absolute;
+    list-style-type: none;
+    margin-left: 815px;
+    margin-right:375px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e62d2d;
+    border-radius: 25px;
+  }
+  .projects {
+    position:absolute;
+    list-style-type: none;
+    margin-left: 915px;
+    margin-right:375px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e62d2d;
+    border-radius: 25px;
+  }
+  .contact {
+    position:absolute;
+    list-style-type: none;
+    margin-left: 1025px;
+    margin-right:375px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e62d2d;
+    border-radius: 25px;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 8px 16px 8px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #8d3232;
+  }
+  
+  .title {
+    position:absolute;
+    list-style-type: none;
+    margin-left: 400px;
+    margin-right:375px;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 25px;
+    color: white;
+    width:200px;
+    padding:20px;
+    margin-left:400px;
+    margin-right:50px;
+    margin-top: 10px;
+    margin-bottom:30px;
+    border:10px solid #000000;
+    background-color: #333333;
+    border-radius: 25px
+  }
 
-.box_2  {
-    height: 300px;
-    width: 500px;
-    padding: 20px;
-    margin: auto;
-    border: 10px solid black;
-    background-color: black; 
-    }
-.box_3  {
-    height: 300px;
-    width: 500px;
-    padding: 20px;
-    margin: auto;
-    border: 10px solid black;
-    background-color: black; 
-    }
+  .Film {
+    position: relative;
+    margin-left:420px;
+    margin-right: 50px;
+    margin-top: 29px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    font-style: unset;
+    height:0px;
+    color:rgb(234, 50, 50);
+  }
 
-h2{color:whitesmoke;}
+  .do {
+    position: relative;
+    margin-left:20px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    width: 260px;
+    font-size: 17px;
+    font-style: unset;
+    height:0px;
+    margin-top: 4px;
+    color:white;
+  }
+  
+  .description {
+    height:200px;
+    width:300px;
+    padding:20px;
+    margin-top:33px;
+    margin-left:400px;
+    margin-right:50px;
+    margin-bottom:50px;
+    border:10px solid #000000;
+    background-color: #333333;
+    border-radius: 25px
+  }
 
-h3 {color: red;}
+  .image1 {
+    height:200px;
+    width:250px;
+    padding:20px;;
+    margin-left: 800px;
+    margin-bottom:50px;
+    margin-top: -310px;
+    border:10px solid #000000;
+    background-color: #333333;
+    border-radius: 25px
+  }
+
+  .amanda {
+    width: 120%;
+    height: 120%;
+    margin-left: -25px;
+    margin-top: -20px;
+  }
+  .title2 {
+    width:200px;
+    padding:20px;
+    margin-left:750px;
+    margin-right:50px;
+    margin-top:-40px;
+    margin-bottom: 10px;
+    border:10px solid #000000;
+    background-color: #333333;
+    border-radius: 25px
+  }
+  .Game {
+    position: absolute;
+    margin-left:770px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-top: -22px;
+    font-size: 20px;
+    font-style: unset;
+    height:0px;
+    color:rgb(234, 50, 50);
+  }
+  .description2 {
+    height:220px;
+    width:300px;
+    padding:20px;;
+    margin-left: 750px;
+    margin-bottom:50px;
+    margin-top: -20px;
+    border:10px solid #000000;
+    background-color: #333333;
+    border-radius: 25px
+  }
+
+  .engine {
+    position: relative;
+    margin-left:20px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    width: 260px;
+    font-size: 17px;
+    font-style: unset;
+    height:0px;
+    margin-top: 4px;
+    color:white;
+  }
+ 
+  .image2 {
+    height:200px;
+    width:250px;
+    margin-left: 400px;
+    margin-bottom:50px;
+    margin-top: -310px;
+    border:10px solid #000000;
+    background-color: #333333;
+    border-radius: 25px
+  }
+
+  .area_51 {
+    width: 130%;
+    height: 130%;
+    margin-left: -25px;
+    margin-top: -30px;
+  }
+  .title3 {
+    width:200px;
+    padding:20px;
+    margin-left:400px;
+    margin-right:50px;
+    margin-top:-10px;
+    margin-bottom: 10px;
+    border:10px solid #000000;
+    background-color: #333333;
+    border-radius: 25px
+  }
+  .Art {
+    position: absolute;
+    margin-left:420px;
+    margin-right: 50px;
+    margin-bottom: -18px;
+    margin-top: -51px;
+    font-size: 20px;
+    font-style: unset;
+    height:0px;
+    color:rgb(234, 50, 50);
+  }
+  .description3 {
+    height:200px;
+    width:300px;
+    padding:20px;
+    margin-top:-20px;
+    margin-left:400px;
+    margin-right:50px;
+    margin-bottom:50px;
+    border:10px solid #000000;
+    background-color: #333333;
+    border-radius: 25px
+  }
+
+  .image3 {
+    height:200px;
+    width:250px;
+    padding:20px;;
+    margin-left: 800px;
+    margin-bottom:50px;
+    margin-top: -310px;
+    border:10px solid #000000;
+    background-color: #000000;
+    border-radius: 25px
+  }
+
+  .drawing {
+    position: relative;
+  margin-left:20px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+  width: 260px;
+  font-size: 17px;
+  font-style: unset;
+  height:0px;
+  margin-top: 4px;
+  color:white;
+  }
+
+  .ichigo {
+    height: 150%;
+    margin-left: 15px;
+    margin-top: -55px;
+  }
+
+  
