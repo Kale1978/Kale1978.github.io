@@ -97,7 +97,7 @@
   .title {
     position:absolute;
     list-style-type: none;
-    margin-left: 400px;
+    margin-left: 27%;
     margin-right:375px;
     padding: 0;
     overflow: hidden;
@@ -116,7 +116,7 @@
 
   .Film {
     position: relative;
-    margin-left:420px;
+    margin-left:28%;
     margin-right: 50px;
     margin-top: 29px;
     margin-bottom: 0px;
@@ -128,7 +128,7 @@
 
   .do {
     position: relative;
-    margin-left:20px;
+    margin-left:2%;
     margin-right: 50px;
     margin-bottom: 10px;
     width: 260px;
@@ -144,7 +144,7 @@
     width:300px;
     padding:20px;
     margin-top:33px;
-    margin-left:400px;
+    margin-left:27%;
     margin-right:50px;
     margin-bottom:50px;
     border:10px solid #000000;
@@ -156,7 +156,7 @@
     height:200px;
     width:250px;
     padding:20px;;
-    margin-left: 800px;
+    margin-left: 54%;
     margin-bottom:50px;
     margin-top: -310px;
     border:10px solid #000000;
@@ -167,13 +167,13 @@
   .amanda {
     width: 120%;
     height: 120%;
-    margin-left: -25px;
+    margin-left: -8%;
     margin-top: -20px;
   }
   .title2 {
     width:200px;
     padding:20px;
-    margin-left:750px;
+    margin-left:52%;
     margin-right:50px;
     margin-top:-40px;
     margin-bottom: 10px;
@@ -183,7 +183,7 @@
   }
   .Game {
     position: absolute;
-    margin-left:770px;
+    margin-left:53%;
     margin-right: 50px;
     margin-bottom: 0px;
     margin-top: -22px;
@@ -196,7 +196,7 @@
     height:220px;
     width:300px;
     padding:20px;;
-    margin-left: 750px;
+    margin-left: 52%;
     margin-bottom:50px;
     margin-top: -20px;
     border:10px solid #000000;
@@ -206,7 +206,7 @@
 
   .engine {
     position: relative;
-    margin-left:20px;
+    margin-left:2%;
     margin-right: 50px;
     margin-bottom: 10px;
     width: 260px;
@@ -220,7 +220,7 @@
   .image2 {
     height:200px;
     width:250px;
-    margin-left: 400px;
+    margin-left: 27%;
     margin-bottom:50px;
     margin-top: -310px;
     border:10px solid #000000;
@@ -231,13 +231,13 @@
   .area_51 {
     width: 130%;
     height: 130%;
-    margin-left: -25px;
+    margin-left: -2%;
     margin-top: -30px;
   }
   .title3 {
     width:200px;
     padding:20px;
-    margin-left:400px;
+    margin-left:27%;
     margin-right:50px;
     margin-top:-10px;
     margin-bottom: 10px;
@@ -247,7 +247,7 @@
   }
   .Art {
     position: absolute;
-    margin-left:420px;
+    margin-left:28%;
     margin-right: 50px;
     margin-bottom: -18px;
     margin-top: -51px;
@@ -261,7 +261,7 @@
     width:300px;
     padding:20px;
     margin-top:-20px;
-    margin-left:400px;
+    margin-left:27%;
     margin-right:50px;
     margin-bottom:50px;
     border:10px solid #000000;
@@ -273,7 +273,7 @@
     height:200px;
     width:250px;
     padding:20px;;
-    margin-left: 800px;
+    margin-left: 54%;
     margin-bottom:50px;
     margin-top: -310px;
     border:10px solid #000000;
@@ -283,7 +283,7 @@
 
   .drawing {
     position: relative;
-  margin-left:20px;
+  margin-left:2%;
   margin-right: 50px;
   margin-bottom: 10px;
   width: 260px;
@@ -296,7 +296,7 @@
 
   .ichigo {
     height: 150%;
-    margin-left: 15px;
+    margin-left: 13%;
     margin-top: -55px;
   }
 
@@ -306,7 +306,7 @@
   }
 
   .foot {
-    margin-left: 385px;
+    margin-left: 26%;
   }
   
   .contact_info {
