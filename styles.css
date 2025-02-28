@@ -3,10 +3,10 @@
 
   .banner {
     display: block;
-    max-width: 2000px;
+    max-width: 133%;
     margin-left: 26%;
-    margin-right: 385px;
-    margin-top: -10px;
+    margin-right: 25%;
+    margin-top: -1%;
     width: 50%;
   }
   ul {
@@ -17,7 +17,7 @@
     position:absolute;
     list-style-type: none;
     margin-left: 27%;
-    margin-right:375px;
+    margin-right:25%;
     margin-top: 2%;
     padding: 0;
     overflow: hidden;
@@ -103,7 +103,7 @@
     overflow: hidden;
     border-radius: 25px;
     color: white;
-    width:200px;
+    width:13%;
     padding:20px;
     margin-bottom:2%;
     border:10px solid #000000;
@@ -128,7 +128,7 @@
     margin-left:2%;
     margin-right: 5%;
     margin-bottom: 3%;
-    width: 260px;
+    width: 100%;
     font-size: 103%;
     font-style: unset;
     height:0%;
@@ -137,8 +137,8 @@
   }
   
   .description {
-    height:200px;
-    width:300px;
+    height:13%;
+    width:20%;
     padding:20px;
     margin-top:1%;
     margin-left:27%;
@@ -150,12 +150,12 @@
   }
 
   .image1 {
-    height:200px;
-    width:250px;
+    height:13%;
+    width:16%;
     padding:20px;;
     margin-left: 52%;
-    margin-bottom:5%;
-    margin-top: -23.7%;
+    margin-bottom:2%;
+    margin-top: -21.75%;
     border:10px solid #000000;
     background-color: #000000;
     border-radius: 25px
@@ -168,7 +168,7 @@
    
   }
   .title2 {
-    width:200px;
+    width:13%;
     padding:20px;
     margin-left:52%;
     margin-right:5%;
@@ -190,8 +190,8 @@
     color:rgb(234, 50, 50);
   }
   .description2 {
-    height:220px;
-    width:300px;
+    height:14.6%;
+    width:20%;
     padding:20px;;
     margin-left: 52%;
     margin-bottom:5%;
@@ -206,7 +206,7 @@
     margin-left:2%;
     margin-right: 5%;
     margin-bottom: 1%;
-    width: 260px;
+    width: 100%;
     font-size: 103%;
     font-style: unset;
     height:0%;
@@ -215,28 +215,28 @@
   }
  
   .image2 {
-    height:200px;
-    width:250px;
-    margin-left: 27%;
+    height:13%;
+    width:16.6%;
+    margin-left: 26%;
     margin-bottom:7%;
-    margin-top: -25.5%;
+    margin-top: -22.75%;
     border:10px solid #000000;
-    background-color: #333333;
+    background-color: #000000;
     border-radius: 25px
   }
 
   .area_51 {
-    width: 130%;
-    height: 130%;
+    width: 150%;
+    height: 150%;
     margin-left: -2%;
     margin-top: -3%;
   }
   .title3 {
-    width:200px;
+    width:13%;
     padding:20px;
     margin-left:27%;
     margin-right:5%;
-    margin-top:-1%;
+    margin-top:-7%;
     margin-bottom: 1%;
     border:10px solid #000000;
     background-color: #333333;
@@ -254,10 +254,10 @@
     color:rgb(234, 50, 50);
   }
   .description3 {
-    height:200px;
-    width:300px;
+    height:13%;
+    width:20%;
     padding:20px;
-    margin-top:-1%;
+    margin-top:1%;
     margin-left:27%;
     margin-right:5%;
     margin-bottom:5%;
@@ -265,41 +265,42 @@
     background-color: #333333;
     border-radius: 25px
   }
+  
+  .drawing {
+    position: relative;
+    margin-left:2%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    width: 100%;
+    font-size: 103%;
+    font-style: unset;
+    height:0px;
+    margin-top: 4px;
+    color:white;
+    }
 
   .image3 {
-    height:200px;
-    width:250px;
+    height:13%;
+    width:16%;
     padding:20px;;
-    margin-left: 54%;
-    margin-bottom:5%;
-    margin-top: -25%;
+    margin-left: 52%;
+    margin-bottom:2%;
+    margin-top: -12.75%;
     border:10px solid #000000;
     background-color: #000000;
     border-radius: 25px
   }
 
-  .drawing {
-    position: relative;
-  margin-left:2%;
-  margin-right: 5%;
-  margin-bottom: 1%;
-  width: 260px;
-  font-size: 103%;
-  font-style: unset;
-  height:0px;
-  margin-top: 4px;
-  color:white;
-  }
-
   .ichigo {
-    height: 150%;
+    width: 100%;
+    height: 100%;
     margin-left: 13%;
-    margin-top: -5.2%;
+    margin-top: -3%;
   }
 
   footer {
     color:#000000;
-    height:100px;
+    height:6.6%;
   }
 
   .foot {
@@ -309,6 +310,6 @@
   .contact_info {
     color: white;
     font-style: unset;
-    width:150px;
+    width:10%;
     margin-top:6% ;
   }
