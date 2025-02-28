@@ -1,6 +1,6 @@
 
   body {background-color: #000000; position:static;}
-  #container {position:relative;min-width: 100px;max-width:1550px;min-height: 100px;max-height: 4000px;}
+  #container {position:relative;min-width: 100px;max-width:1550px;min-height: 100px;max-height: 4000px;margin:center;}
   .banner {
     display: block;
     max-width: 133%;
