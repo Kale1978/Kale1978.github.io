@@ -1,14 +1,10 @@
 
   body {background-color: #000000; position:static;}
 
-  #container{
-    position:relative;
-    min-width: 1900px;
-  }
   .banner {
     display: block;
     max-width: 2000px;
-    margin-left: 385px;
+    margin-left: 26%;
     margin-right: 385px;
     margin-top: -10px;
     width: 50%;
@@ -20,7 +16,7 @@
   .name  {
     position:absolute;
     list-style-type: none;
-    margin-left: 400px;
+    margin-left: 27%;
     margin-right:375px;
     margin-top: 20px;
     padding: 0;
@@ -33,7 +29,7 @@
   .company {
     position:absolute;
     list-style-type: none;
-    margin-left: 400px;
+    margin-left: 27%;
     margin-right:375px;
     margin-top:25px;
     padding: 0;
@@ -45,7 +41,7 @@
   .home {
     position:absolute;
     list-style-type: none;
-    margin-left: 715px;
+    margin-left: 45%;
     margin-right:375px;
     padding: 0;
     overflow: hidden;
@@ -55,7 +51,7 @@
   .about {
     position:absolute;
     list-style-type: none;
-    margin-left: 815px;
+    margin-left: 52%;
     margin-right:375px;
     padding: 0;
     overflow: hidden;
@@ -65,7 +61,7 @@
   .projects {
     position:absolute;
     list-style-type: none;
-    margin-left: 915px;
+    margin-left: 59%;
     margin-right:375px;
     padding: 0;
     overflow: hidden;
@@ -75,7 +71,7 @@
   .contact {
     position:absolute;
     list-style-type: none;
-    margin-left: 1025px;
+    margin-left: 67%;
     margin-right:375px;
     padding: 0;
     overflow: hidden;
